@@ -75,7 +75,7 @@ I still had whatismyipaddress.com open in the Edge browser, so I simply refreshe
 <img src="https://i.imgur.com/FPGISSi.png" height="70%" width="70%"/>
 </p>
 <p>
-As we can see, when I search the term “amazon” using Google, the search results are in Japanese. This further confirms that the VPN worked.
+As we can see, when I searched the term “amazon” using Google, the search results were in Japanese. This further confirmed that the VPN worked.
 </p>
 <br />
 
