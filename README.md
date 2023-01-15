@@ -80,6 +80,6 @@ As we can see, when I searched the term “amazon” using Google, the search re
 <br />
 
 <p>
-😄 And that’s what happens when you use a VPN!
+✨ And that’s what happens when you use a VPN!
 </p>
 <br />
